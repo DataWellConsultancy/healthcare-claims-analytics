@@ -1,0 +1,201 @@
+Provider_ID,Provider_Name,Hospital_Name,Hospital_Type,Provider_Specialty,State,Years_in_Practice,Provider_Rating,Total_Beds,Accreditation_Status,Is_High_Risk,Rating_Tier,Experience_Tier,Hospital_Size
+P001,Mr. Kevin Schultz DDS,"Golden, Smith and Macias",Government,Cardiology,FL,31,2.6,621,Accredited,1,Average,Expert,Major
+P002,Kristi Webb,Thornton and Sons,Government,Pediatrics,FL,17,3.1,437,Lapsed,0,Good,Senior,Large
+P003,Thomas Calderon,"Bradley, Boyle and Vargas",Non-Profit,Oncology,GA,10,4.4,134,Lapsed,1,Excellent,Mid,Medium
+P004,Dr. Louis Brooks,Gray-Brown,Private,Cardiology,OH,23,3.7,636,Accredited,1,Good,Senior,Major
+P005,Tammy Barnes,Holden and Sons,Private,Cardiology,IL,21,3.9,215,Accredited,0,Good,Senior,Medium
+P006,Joseph Ware,Arroyo Ltd,Private,General Practice,FL,25,1.8,520,Accredited,1,Poor,Senior,Large
+P007,Ruth Duffy,Shaw LLC,Government,General Practice,FL,13,3.2,645,Accredited,0,Good,Mid,Major
+P008,Tanya Berry,Hansen-Kirk,Government,Neurology,NY,13,3.8,512,Lapsed,0,Good,Mid,Large
+P009,Geoffrey Bryant,"Wise, Ballard and Jones",Clinic,Neurology,FL,26,1.9,94,Accredited,1,Poor,Expert,Small
+P010,Rodney Marquez,"Johnson, Taylor and Potter",Government,Neurology,PA,38,1.7,432,Accredited,0,Poor,Expert,Large
+P011,Earl Potts,Kennedy-Griffin,Government,General Practice,OH,26,4.9,395,Lapsed,0,Excellent,Expert,Large
+P012,Joseph Delgado,"Ramsey, Lynch and Mckenzie",Government,Neurology,IL,5,3.1,439,Pending Review,0,Good,Junior,Large
+P013,Michelle Jordan,Myers and Sons,Private,Cardiology,CA,24,2.0,748,Pending Review,0,Poor,Senior,Major
+P014,Jaime Cook,Willis-Hall,Private,General Practice,IL,4,5.0,296,Accredited,0,Excellent,Junior,Medium
+P015,Michelle Burton,Wilson-Hunter,Government,Neurology,OH,26,4.9,780,Accredited,1,Excellent,Expert,Major
+P016,Anna Shaw,Rice Ltd,Private,Cardiology,PA,32,3.2,695,Lapsed,1,Good,Expert,Major
+P017,Kimberly Murray,Bean-Mcdonald,Clinic,Neurology,OH,40,4.5,413,Accredited,0,Excellent,Expert,Large
+P018,Megan Walsh,Lewis-Boyd,Private,Orthopedics,NY,4,1.8,476,Accredited,0,Poor,Junior,Large
+P019,Terri Webb,Rodriguez and Sons,Clinic,Neurology,CA,23,2.1,211,Accredited,0,Average,Senior,Medium
+P020,Ian Clark,Stuart-Edwards,Non-Profit,Orthopedics,IL,35,3.8,758,Lapsed,0,Good,Expert,Major
+P021,Linda Torres,Daniels Group,Government,Neurology,TX,14,4.4,708,Accredited,0,Excellent,Mid,Major
+P022,Brandon Clements,"Morales, Smith and Knox",Private,Pediatrics,IL,24,4.4,118,Lapsed,1,Excellent,Senior,Medium
+P023,Rhonda Petersen,Mason-Ford,Clinic,Pediatrics,NY,27,2.6,567,Accredited,0,Average,Expert,Large
+P024,Susan Zimmerman,"Hurst, Jackson and Peterson",Non-Profit,Oncology,CA,29,4.6,115,Accredited,0,Excellent,Expert,Medium
+P025,Donald Walsh,"Hunter, Adams and Phillips",Non-Profit,Pediatrics,PA,30,4.4,683,Lapsed,0,Excellent,Expert,Major
+P026,Colton Ray,"Matthews, Torres and Fisher",Private,Pediatrics,OH,18,4.7,682,Pending Review,0,Excellent,Senior,Major
+P027,Anthony Zavala,Abbott LLC,Private,Neurology,OH,17,4.1,209,Accredited,0,Excellent,Senior,Medium
+P028,Nathan Wagner,Davis Ltd,Non-Profit,General Practice,PA,5,3.7,755,Accredited,1,Good,Junior,Major
+P029,Raymond Weaver,Hamilton PLC,Government,General Practice,CA,39,3.3,56,Lapsed,0,Good,Expert,Small
+P030,Keith Dodson,Peterson-Miller,Government,Orthopedics,PA,9,2.5,799,Accredited,0,Average,Mid,Major
+P031,Alexander Smith,"Bird, Brown and Evans",Clinic,General Practice,FL,23,4.8,388,Accredited,0,Excellent,Senior,Large
+P032,Elizabeth Montes,Dawson-Webster,Government,Cardiology,IL,11,4.9,714,Pending Review,0,Excellent,Mid,Major
+P033,Jason Stevens,"Lawrence, Dillon and Carey",Non-Profit,Oncology,NY,20,2.1,544,Pending Review,0,Average,Senior,Large
+P034,Jacob Stark,"Davis, Stevens and Miller",Non-Profit,Pediatrics,PA,6,2.2,298,Accredited,1,Average,Mid,Medium
+P035,Brian Roberts,Harris-Singh,Non-Profit,Oncology,NY,27,2.9,236,Pending Review,0,Average,Expert,Medium
+P036,Jennifer Harrison,"Flynn, Burgess and Mitchell",Government,Cardiology,FL,16,2.8,292,Accredited,0,Average,Senior,Medium
+P037,Jodi Dean,"Gomez, Hartman and Green",Clinic,Pediatrics,OH,11,5.0,81,Pending Review,1,Excellent,Mid,Small
+P038,Henry Turner,"Richardson, Sanchez and Olsen",Government,Orthopedics,PA,28,1.7,615,Accredited,1,Poor,Expert,Major
+P039,Mandy Williams,Guzman-Alexander,Clinic,Cardiology,CA,4,1.1,748,Pending Review,0,Poor,Junior,Major
+P040,Christine Nichols,Fox-Jones,Government,Cardiology,OH,22,3.0,361,Accredited,1,Average,Senior,Large
+P041,Charles Liu,"Hill, Patton and Gibson",Non-Profit,Oncology,OH,30,1.7,416,Lapsed,1,Poor,Expert,Large
+P042,Jasmine Garner,"Jones, Cooper and Frost",Non-Profit,Neurology,CA,9,2.5,718,Accredited,1,Average,Mid,Major
+P043,Claudia Lee,Webb Group,Private,Oncology,IL,10,4.0,38,Lapsed,1,Good,Mid,Small
+P044,Brittany Munoz,Gonzalez Group,Government,Oncology,IL,37,3.9,196,Lapsed,0,Good,Expert,Medium
+P045,Jason Hudson,"Lewis, Chan and Johnson",Government,General Practice,PA,16,2.2,631,Pending Review,0,Average,Senior,Major
+P046,Becky Martin,Reyes Ltd,Private,Cardiology,OH,19,3.2,415,Pending Review,0,Good,Senior,Large
+P047,William Marshall,"Bryant, Bradley and Gordon",Non-Profit,Oncology,PA,38,3.0,464,Pending Review,0,Average,Expert,Large
+P048,Jonathon Murphy,Brennan Group,Government,Cardiology,IL,6,3.5,252,Lapsed,1,Good,Mid,Medium
+P049,Grant Rodriguez,Stuart-Proctor,Private,General Practice,TX,4,2.0,95,Accredited,0,Poor,Junior,Small
+P050,Matthew Soto,King LLC,Government,Cardiology,FL,8,3.4,284,Accredited,0,Good,Mid,Medium
+P051,Toni Combs,Cook LLC,Clinic,Oncology,PA,6,4.9,474,Accredited,0,Excellent,Mid,Large
+P052,Stephanie Petty,"Rojas, Webb and Phillips",Non-Profit,Cardiology,PA,31,2.9,737,Accredited,1,Average,Expert,Major
+P053,Emily Clark,Cherry-Harris,Clinic,Pediatrics,TX,20,4.6,754,Accredited,1,Excellent,Senior,Major
+P054,Christine Ward,Middleton-Shaw,Non-Profit,General Practice,IL,28,2.7,403,Pending Review,0,Average,Expert,Large
+P055,Marcus Stafford,"Johnson, Mills and Anderson",Private,Neurology,PA,36,2.4,583,Accredited,0,Average,Expert,Large
+P056,Judy Park,Rowland-Lewis,Non-Profit,Cardiology,NY,12,3.6,525,Pending Review,0,Good,Mid,Large
+P057,Andrew Gonzalez,"Holland, Barr and Rubio",Non-Profit,Oncology,IL,38,3.7,386,Lapsed,0,Good,Expert,Large
+P058,Mike Ross,Allen and Sons,Private,General Practice,IL,16,4.5,163,Lapsed,0,Excellent,Senior,Medium
+P059,Teresa Massey,Terrell Inc,Non-Profit,Oncology,FL,33,1.9,88,Pending Review,0,Poor,Expert,Small
+P060,Patrick Hughes,Hawkins-Rivera,Government,Oncology,PA,17,3.0,118,Accredited,0,Average,Senior,Medium
+P061,Dawn Robinson,Miles LLC,Private,Cardiology,OH,10,3.3,415,Accredited,0,Good,Mid,Large
+P062,Angela Bailey,Myers-Powell,Private,Oncology,GA,16,4.1,44,Pending Review,0,Excellent,Senior,Small
+P063,Sabrina Garcia,Graham-Medina,Private,Cardiology,GA,25,1.2,488,Accredited,0,Poor,Senior,Large
+P064,Derrick Tyler,Wolfe-Mccullough,Clinic,Neurology,GA,23,5.0,503,Accredited,0,Excellent,Senior,Large
+P065,Anita Sanchez,Ramos Group,Clinic,Pediatrics,FL,18,2.9,584,Pending Review,0,Average,Senior,Large
+P066,Toni Williams,Sanchez Inc,Non-Profit,Oncology,GA,20,2.1,170,Accredited,0,Average,Senior,Medium
+P067,Mr. Alexander Molina,Butler PLC,Private,Oncology,TX,26,4.5,163,Accredited,0,Excellent,Expert,Medium
+P068,Jose Thomas,Aguirre-Fisher,Non-Profit,Oncology,CA,28,4.0,588,Accredited,1,Good,Expert,Large
+P069,Steven Callahan,Davis Inc,Government,Orthopedics,IL,27,4.8,58,Accredited,0,Excellent,Expert,Small
+P070,Miguel Ramirez,"Page, Berry and Strickland",Private,Orthopedics,OH,31,2.3,128,Accredited,0,Average,Expert,Medium
+P071,Caleb Rich,Carter-Mcknight,Government,General Practice,CA,17,3.2,712,Lapsed,0,Good,Senior,Major
+P072,Derek Brown PhD,Salazar-Davis,Non-Profit,Pediatrics,FL,3,3.3,61,Accredited,1,Good,Junior,Small
+P073,John Ellis,Aguirre-Miles,Clinic,Pediatrics,IL,27,4.9,205,Lapsed,1,Excellent,Expert,Medium
+P074,Justin Harvey,Graham Ltd,Non-Profit,Orthopedics,FL,9,1.3,417,Accredited,0,Poor,Mid,Large
+P075,Melissa Figueroa,"Mitchell, Lee and Mills",Government,General Practice,FL,11,2.2,242,Lapsed,0,Average,Mid,Medium
+P076,Briana Calderon,Carter Inc,Private,Orthopedics,TX,26,1.8,653,Accredited,0,Poor,Expert,Major
+P077,Noah Luna,Allen LLC,Non-Profit,Neurology,NY,3,2.1,152,Accredited,0,Average,Junior,Medium
+P078,Charles James,"Hall, Douglas and Ayala",Private,General Practice,NY,10,2.9,182,Accredited,0,Average,Mid,Medium
+P079,Julie Scott,Mccoy and Sons,Clinic,Pediatrics,FL,26,2.5,234,Pending Review,0,Average,Expert,Medium
+P080,Mark Williams,Moore-Greer,Clinic,Pediatrics,GA,13,2.6,752,Pending Review,0,Average,Mid,Major
+P081,Linda Garcia,Phillips-Mcbride,Clinic,Orthopedics,CA,19,4.4,254,Lapsed,0,Excellent,Senior,Medium
+P082,James Zimmerman,Phillips-Armstrong,Private,Neurology,GA,10,4.7,677,Accredited,0,Excellent,Mid,Major
+P083,Derek King,"Simmons, Solis and Hill",Non-Profit,Orthopedics,PA,37,1.3,770,Pending Review,0,Poor,Expert,Major
+P084,Patricia Wang,Short-Thompson,Private,Cardiology,FL,37,1.8,607,Pending Review,0,Poor,Expert,Major
+P085,Melissa Jones,Gibson Ltd,Private,Cardiology,PA,35,3.7,28,Pending Review,0,Good,Expert,Small
+P086,Catherine Weaver,Holmes Ltd,Non-Profit,Neurology,GA,7,2.4,93,Accredited,0,Average,Mid,Small
+P087,Antonio Lutz,Levine Ltd,Clinic,Oncology,PA,30,2.0,511,Accredited,0,Poor,Expert,Large
+P088,Amber Williams,Anderson-Lester,Clinic,Oncology,FL,9,2.2,272,Accredited,0,Average,Mid,Medium
+P089,Joshua Spencer MD,"James, Carter and Parker",Non-Profit,Cardiology,TX,11,2.3,249,Accredited,0,Average,Mid,Medium
+P090,George Ortiz,"Carr, Maynard and Alvarez",Private,Cardiology,NY,10,4.4,538,Pending Review,0,Excellent,Mid,Large
+P091,Denise Rose DDS,"Crane, Andersen and Anderson",Private,Oncology,CA,14,1.5,193,Accredited,0,Poor,Mid,Medium
+P092,Destiny Mccormick,Gentry-Alvarado,Clinic,General Practice,PA,36,3.8,672,Accredited,1,Good,Expert,Major
+P093,Morgan Sandoval,"Powell, Carson and Wright",Government,Oncology,FL,35,3.2,187,Lapsed,1,Good,Expert,Medium
+P094,Joseph Thomas,Jackson-Williams,Government,Orthopedics,TX,25,2.2,189,Accredited,0,Average,Senior,Medium
+P095,Douglas Rose,Patel and Sons,Government,General Practice,GA,26,2.7,412,Pending Review,0,Average,Expert,Large
+P096,Bryan Grant,"Reese, Frazier and Kim",Private,Orthopedics,NY,39,2.0,653,Lapsed,0,Poor,Expert,Major
+P097,Lori Campbell,Dunn LLC,Private,Cardiology,FL,37,3.4,213,Lapsed,0,Good,Expert,Medium
+P098,Spencer Kim,Riley and Sons,Clinic,General Practice,CA,24,1.3,536,Accredited,0,Poor,Senior,Large
+P099,Nancy Lopez,Osborne-Kelley,Government,Orthopedics,GA,29,1.0,48,Pending Review,0,Poor,Expert,Small
+P100,Christopher Webb,Zhang-Waters,Clinic,Orthopedics,TX,37,3.5,184,Lapsed,0,Good,Expert,Medium
+P101,Cassie Carr,"Rodriguez, Meyer and Wade",Clinic,General Practice,GA,3,1.8,441,Accredited,1,Poor,Junior,Large
+P102,Joshua Patton,Daugherty and Sons,Clinic,Neurology,OH,37,1.3,358,Accredited,0,Poor,Expert,Large
+P103,Nicole West DDS,Cummings-Phillips,Non-Profit,Oncology,GA,39,2.6,667,Pending Review,1,Average,Expert,Major
+P104,Martha Keller,Escobar Inc,Government,Pediatrics,PA,16,1.2,515,Accredited,0,Poor,Senior,Large
+P105,Michael Rowland,"Hoffman, Gonzalez and Parrish",Government,Orthopedics,GA,5,4.5,384,Accredited,1,Excellent,Junior,Large
+P106,Steven Richardson,Wright Inc,Non-Profit,Oncology,TX,3,1.1,361,Accredited,0,Poor,Junior,Large
+P107,Richard Barker,Stark LLC,Non-Profit,Pediatrics,GA,7,3.3,519,Accredited,0,Good,Mid,Large
+P108,Destiny Weaver,Washington Ltd,Government,Oncology,GA,28,2.8,676,Accredited,0,Average,Expert,Major
+P109,George Pierce,Baldwin-Holloway,Non-Profit,Cardiology,IL,16,3.7,530,Accredited,0,Good,Senior,Large
+P110,Sandy Kennedy MD,Larson-Williamson,Clinic,Pediatrics,FL,29,2.3,346,Accredited,0,Average,Expert,Large
+P111,Michael Scott,"Russell, Stephens and Smith",Private,Oncology,IL,11,1.6,236,Accredited,0,Poor,Mid,Medium
+P112,Thomas Gamble,Hess Group,Clinic,Orthopedics,GA,17,4.9,320,Lapsed,0,Excellent,Senior,Large
+P113,Linda Moore,Smith Group,Government,Pediatrics,FL,17,4.4,151,Accredited,0,Excellent,Senior,Medium
+P114,Melissa Gonzalez,Wilson Inc,Non-Profit,Cardiology,IL,28,4.4,89,Accredited,0,Excellent,Expert,Small
+P115,Kimberly Burns,Clayton Group,Private,General Practice,GA,15,2.0,271,Accredited,0,Poor,Mid,Medium
+P116,Andrea Reynolds,Poole-Burke,Government,Orthopedics,CA,34,1.2,434,Pending Review,0,Poor,Expert,Large
+P117,Ashley Johnson,"Becker, Dean and White",Non-Profit,Cardiology,IL,34,2.2,464,Accredited,0,Average,Expert,Large
+P118,Michael Vargas,"Frazier, Allen and Jones",Private,Cardiology,FL,6,3.1,201,Lapsed,1,Good,Mid,Medium
+P119,Debbie Ruiz,Johnson Inc,Private,Pediatrics,IL,32,2.3,186,Lapsed,0,Average,Expert,Medium
+P120,Stacey Copeland,Payne-Haynes,Non-Profit,Oncology,OH,39,4.3,110,Lapsed,1,Excellent,Expert,Medium
+P121,Eric Petersen,Garcia Inc,Private,General Practice,OH,25,2.1,733,Accredited,0,Average,Senior,Major
+P122,Catherine Hunter,"Johnson, Price and Gordon",Government,Orthopedics,CA,17,4.9,550,Accredited,0,Excellent,Senior,Large
+P123,Meredith Nunez,"Morris, Lam and Clark",Non-Profit,Orthopedics,TX,31,2.8,58,Accredited,0,Average,Expert,Small
+P124,Harold Mitchell,"Wilson, Dillon and Hebert",Clinic,Oncology,TX,38,4.4,145,Accredited,1,Excellent,Expert,Medium
+P125,Mr. Gregory Mitchell DVM,Espinoza and Sons,Government,General Practice,FL,15,1.8,470,Accredited,1,Poor,Mid,Large
+P126,Andrea Williams,Mcdaniel-Combs,Government,Pediatrics,PA,34,2.6,192,Accredited,0,Average,Expert,Medium
+P127,Thomas Jordan,Johnson PLC,Non-Profit,Orthopedics,TX,9,3.8,672,Accredited,0,Good,Mid,Major
+P128,Barbara Morales,Moore-Boyer,Non-Profit,General Practice,FL,24,1.6,773,Accredited,0,Poor,Senior,Major
+P129,Briana Barrett,Carter-Watson,Private,Pediatrics,CA,30,1.5,239,Accredited,1,Poor,Expert,Medium
+P130,David Adams,"Harrison, Stafford and Henry",Government,Pediatrics,PA,4,4.9,657,Lapsed,1,Excellent,Junior,Major
+P131,Terry Martinez,Martinez Group,Private,Orthopedics,PA,8,3.9,77,Accredited,0,Good,Mid,Small
+P132,James Adams,Rich-Foster,Government,Oncology,OH,30,1.2,679,Accredited,1,Poor,Expert,Major
+P133,Jason Anderson,Schmidt-Pearson,Government,Neurology,GA,30,2.6,495,Accredited,0,Average,Expert,Large
+P134,Lindsey Riley,Baker-Griffin,Clinic,Orthopedics,PA,22,2.7,475,Accredited,0,Average,Senior,Large
+P135,James Rowland,"Burton, Kennedy and Anderson",Government,Cardiology,NY,32,4.0,380,Lapsed,0,Good,Expert,Large
+P136,Dustin Ho,"Watson, Wright and Bradshaw",Private,Cardiology,FL,13,2.0,20,Accredited,0,Poor,Mid,Small
+P137,David Washington,Murray-Paul,Private,Pediatrics,PA,30,1.7,406,Accredited,0,Poor,Expert,Large
+P138,Margaret Morris,Watkins Group,Clinic,Neurology,PA,27,1.3,367,Pending Review,0,Poor,Expert,Large
+P139,Mrs. Heather Alvarez,"Bowen, White and Watson",Private,Orthopedics,NY,35,2.7,209,Accredited,1,Average,Expert,Medium
+P140,Michael Bailey,"Green, Ward and Dixon",Non-Profit,Cardiology,PA,3,3.8,524,Accredited,0,Good,Junior,Large
+P141,Kelsey Beck,Jackson Ltd,Clinic,Cardiology,GA,29,1.2,210,Lapsed,0,Poor,Expert,Medium
+P142,Teresa Perkins,"Swanson, Doyle and Miller",Private,Orthopedics,NY,15,4.7,527,Accredited,0,Excellent,Mid,Large
+P143,Cory Reid,"Ray, Woods and Gordon",Private,General Practice,OH,5,2.8,388,Pending Review,0,Average,Junior,Large
+P144,Olivia Mack,Hodge Inc,Non-Profit,Pediatrics,IL,8,2.0,428,Pending Review,0,Poor,Mid,Large
+P145,Eric Green,Kim-Roman,Clinic,Orthopedics,PA,10,1.4,136,Pending Review,0,Poor,Mid,Medium
+P146,Theresa Soto,"Spencer, Allen and Rogers",Non-Profit,General Practice,PA,29,1.7,153,Accredited,1,Poor,Expert,Medium
+P147,John Gutierrez,Daniels-Carr,Clinic,Pediatrics,FL,11,4.7,77,Accredited,0,Excellent,Mid,Small
+P148,Carolyn Hanson,Webb Ltd,Clinic,Neurology,GA,39,3.6,575,Accredited,0,Good,Expert,Large
+P149,Robert Wade,Thomas Inc,Government,Oncology,FL,35,3.1,704,Accredited,0,Good,Expert,Major
+P150,Chelsea Brown,"Oliver, Ruiz and Turner",Private,Pediatrics,IL,26,3.6,691,Pending Review,0,Good,Expert,Major
+P151,Jesse Hart,Bass-Johnson,Private,Neurology,PA,17,2.7,192,Accredited,0,Average,Senior,Medium
+P152,Todd Wood,Patton PLC,Government,Oncology,GA,34,3.9,168,Accredited,0,Good,Expert,Medium
+P153,Steven Scott,Ortiz-Noble,Non-Profit,Cardiology,NY,34,1.2,99,Pending Review,1,Poor,Expert,Small
+P154,Amanda Mann,Frye-King,Government,Cardiology,PA,26,3.3,232,Pending Review,0,Good,Expert,Medium
+P155,Sandra Small,"Hoffman, Rivera and Hernandez",Private,Cardiology,OH,14,1.6,222,Accredited,0,Poor,Mid,Medium
+P156,Thomas Brown,"Williamson, Baker and Lewis",Private,Pediatrics,PA,4,1.5,783,Lapsed,0,Poor,Junior,Major
+P157,James Orr,Crane Ltd,Government,General Practice,TX,5,2.4,248,Accredited,0,Average,Junior,Medium
+P158,Tammy Roberts,Proctor-Campbell,Government,Oncology,GA,39,1.4,695,Accredited,1,Poor,Expert,Major
+P159,Corey Kerr,"Stevenson, Fry and Ryan",Government,Cardiology,TX,19,1.4,246,Accredited,0,Poor,Senior,Medium
+P160,Stephen Nielsen,Snyder LLC,Private,Orthopedics,NY,4,2.2,678,Lapsed,0,Average,Junior,Major
+P161,Ruben Hopkins,Young Inc,Government,Oncology,PA,4,4.9,551,Accredited,0,Excellent,Junior,Large
+P162,Cindy Walker,Evans-Mcdonald,Government,Oncology,NY,30,1.7,460,Accredited,0,Poor,Expert,Large
+P163,Mathew Houston,Smith Group,Non-Profit,General Practice,CA,25,1.1,421,Accredited,0,Poor,Senior,Large
+P164,Erik Cervantes,Garcia LLC,Government,Neurology,PA,39,4.1,66,Accredited,0,Excellent,Expert,Small
+P165,Casey Smith,"Hamilton, Abbott and Carpenter",Private,General Practice,TX,34,4.2,252,Lapsed,1,Excellent,Expert,Medium
+P166,Lisa Robertson,"Moreno, Walker and Thomas",Non-Profit,Cardiology,GA,35,2.4,324,Pending Review,0,Average,Expert,Large
+P167,Rebecca Cook,Adkins PLC,Clinic,Orthopedics,TX,3,2.9,545,Lapsed,0,Average,Junior,Large
+P168,Wayne Mcdaniel,Ali-Stone,Private,Orthopedics,NY,21,3.6,162,Lapsed,0,Good,Senior,Medium
+P169,Tammy Cook,"Gray, Snyder and Diaz",Private,Cardiology,IL,4,1.2,434,Lapsed,0,Poor,Junior,Large
+P170,Scott Brown,"Schneider, Fry and Pitts",Clinic,Orthopedics,PA,28,4.8,532,Accredited,0,Excellent,Expert,Large
+P171,Richard Whitney,Clarke Group,Private,General Practice,OH,34,4.5,392,Lapsed,1,Excellent,Expert,Large
+P172,Keith Sparks,"Potter, Richards and Austin",Clinic,Pediatrics,FL,8,2.0,585,Pending Review,0,Poor,Mid,Large
+P173,Brad Peterson,Hardin and Sons,Clinic,General Practice,GA,34,1.1,278,Pending Review,0,Poor,Expert,Medium
+P174,Kelli Kirby,"Elliott, Taylor and Schmidt",Private,Pediatrics,OH,6,4.7,675,Pending Review,0,Excellent,Mid,Major
+P175,Anna Peterson,"Salazar, Fletcher and Jenkins",Government,Cardiology,OH,13,3.0,490,Accredited,0,Average,Mid,Large
+P176,Ronald Hanna,Weaver LLC,Government,Orthopedics,PA,19,3.2,31,Lapsed,0,Good,Senior,Small
+P177,Christina Rich,Peters-Christian,Clinic,Oncology,IL,40,3.7,349,Pending Review,0,Good,Expert,Large
+P178,Erica Gregory,"Mills, York and Baker",Non-Profit,Neurology,PA,26,3.5,755,Accredited,0,Good,Expert,Major
+P179,Sandra Rogers,"Mcdaniel, Ramirez and Castro",Clinic,Oncology,IL,7,4.8,377,Lapsed,0,Excellent,Mid,Large
+P180,Andre Watson,Tyler Inc,Clinic,Pediatrics,CA,36,4.8,427,Lapsed,1,Excellent,Expert,Large
+P181,Gary Davis,Moore Group,Clinic,General Practice,GA,8,4.5,687,Accredited,0,Excellent,Mid,Major
+P182,Heather Tran,Hunt LLC,Government,General Practice,NY,24,3.5,392,Lapsed,0,Good,Senior,Large
+P183,Susan Conway,"Simmons, Scott and Curtis",Government,General Practice,NY,13,4.2,27,Accredited,0,Excellent,Mid,Small
+P184,Taylor Lamb,"Humphrey, Myers and Smith",Government,General Practice,OH,18,3.7,141,Accredited,0,Good,Senior,Medium
+P185,Jessica Clark,"Holmes, Cantu and Webb",Clinic,Neurology,FL,35,3.3,367,Accredited,0,Good,Expert,Large
+P186,Jesus Martinez,Marsh-Gibson,Non-Profit,Cardiology,CA,11,1.5,695,Accredited,0,Poor,Mid,Major
+P187,John Woods,Turner-Osborne,Government,General Practice,NY,8,4.2,109,Accredited,1,Excellent,Mid,Medium
+P188,Gary Smith,Lynch-White,Private,Pediatrics,NY,18,4.3,667,Accredited,0,Excellent,Senior,Major
+P189,Amy White,Schmitt and Sons,Private,Orthopedics,FL,31,3.5,717,Accredited,0,Good,Expert,Major
+P190,Stephen James,"Moore, George and Mendoza",Private,Neurology,FL,5,4.3,335,Accredited,0,Excellent,Junior,Large
+P191,Melissa Hardin,Butler-Thomas,Clinic,Pediatrics,NY,22,3.6,197,Lapsed,0,Good,Senior,Medium
+P192,Jeffrey Rodriguez,"Guzman, Day and Glenn",Private,Pediatrics,TX,38,1.8,559,Accredited,0,Poor,Expert,Large
+P193,Michelle David,Dunn PLC,Clinic,General Practice,FL,21,2.1,751,Accredited,0,Average,Senior,Major
+P194,George Russell,"Leach, Clarke and Lopez",Private,Orthopedics,TX,28,1.9,60,Accredited,0,Poor,Expert,Small
+P195,Johnathan Moore,Poole PLC,Non-Profit,General Practice,GA,5,2.5,759,Pending Review,0,Average,Junior,Major
+P196,Michelle Carlson,"Keller, Keller and Norton",Clinic,Pediatrics,CA,21,1.2,723,Pending Review,1,Poor,Senior,Major
+P197,Laura Watson,Stark Group,Private,Cardiology,FL,22,3.5,521,Lapsed,0,Good,Senior,Large
+P198,Nicole Dean,"Pham, Williams and Morgan",Government,Neurology,GA,34,2.3,164,Pending Review,0,Average,Expert,Medium
+P199,Chad Reyes,Miller-Harvey,Clinic,Cardiology,IL,9,3.6,220,Accredited,0,Good,Mid,Medium
+P200,Cindy Mckinney,"Gonzales, Moore and Lopez",Government,Neurology,OH,35,2.5,743,Accredited,0,Average,Expert,Major
